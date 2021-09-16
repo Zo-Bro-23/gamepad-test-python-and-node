@@ -1,0 +1,1 @@
+const gampads = require('gamepads')
